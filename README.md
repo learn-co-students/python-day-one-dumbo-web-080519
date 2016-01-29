@@ -9,4 +9,4 @@ Do these labs in this order
   5. Iteration
   6. Cartoon Collections
 
-<a href='https://learn.co/lessons/python-day-one' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/python-day-one' title='python-day-one'>python-day-one</a> on Learn.co and start learning to code for free.</p>
